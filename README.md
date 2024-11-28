@@ -1,12 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Style Stack
 
-# Day 1: HTML5 and Box model
+ Reusable styled components
 
-> Set up a GitHub repository with correct tools
+![screenshot]()
 
-![screenshot](./app_screenshot.png)
-
-In this exercise, you will set up a "Hello world" repository.
 
 ## Built With
 
@@ -15,44 +12,27 @@ In this exercise, you will set up a "Hello world" repository.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link]()
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- `git clone git@github.com:Mhdez221993/dance_club_api.git`
+
+- `npm install`
+
+- `npx stylelint "**/*.css" --fix`
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
+## Author
 
 - GitHub: [@githubhandle](https://github.com/Mhdez221993)
-- Twitter: [@twitterhandle](https://twitter.com/MoisesH42060050)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moises-hdez-coronado/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Mhdez221993/StyleStack/issues).
 
 ## Show your support
 
@@ -61,9 +41,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
